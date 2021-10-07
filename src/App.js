@@ -5,8 +5,7 @@ import Hello from './hello/Hello';
 function App() {
   return (
     <div>
-      Merhaba Dunya
-      <Hello />
+      <Hello/>
     </div>
   );
 }
